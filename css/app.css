@@ -1,0 +1,46 @@
+body {
+	background-image: url("../img/map.jpg");
+}
+
+.paper {
+	background-color: #FFF8F0;
+	padding-top: 10px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	-webkit-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  		-moz-box-shadow:    5px 5px 5px rgba(0, 0, 0, 0.5);
+  			box-shadow:         5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.paper img {
+	border-radius: 5px;
+}
+
+.top-bar {
+	background-color: #FFF8F0;
+	margin-bottom: 10px;
+	-webkit-box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.5);
+  		-moz-box-shadow:    0px 4px 3px rgba(0, 0, 0, 0.5);
+  			box-shadow:         0px 4px 3px rgba(0, 0, 0, 0.5);
+}
+
+.top-bar ul {
+	background-color: #FFF8F0;
+}
+
+.top-bar a {
+	color: #000;
+}
+
+.top-bar a:hover {
+	color: #777;
+}
+
+.top-bar h2 {
+	margin-top: -0.5em;
+	margin-bottom: -0.5em;
+}
+
+.line-cheat {
+	margin-top: -0.5em;
+}
