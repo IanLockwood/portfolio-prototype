@@ -97,3 +97,31 @@ body {
 	font-weight: bold;
 	font-size: 1.5em;
 }
+
+#home {
+	display: block;
+}
+
+#about {
+	display: none;
+}
+
+#contact {
+	display: none;
+}
+
+#projects {
+	display: none;
+}
+
+#popular {
+	display: none;
+}
+
+#stackoverabundance {
+	display: none;
+}
+
+#zinsurvey {
+	display: none;
+}
